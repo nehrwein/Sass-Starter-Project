@@ -1,4 +1,4 @@
-# sass-starter-project
+# Sass-Starter-Project
 
 ## Project Description
 This project is a starter template for using Sass in web development. It includes a basic setup for compiling Sass to CSS, copying HTML and assets to the public directory, and watching for changes during development.
